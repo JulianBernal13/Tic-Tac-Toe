@@ -10,6 +10,6 @@ The objective of this game is the same as any other form of Tic-Tac-Toe, which i
 
 The game will continue until there is a winner declared or a draw occurs (i.e. a situation where no available spots are left to place a symbol and there is not a winner announced)
 
-Programming:
+Description of the way it's programmed:
 
 Each player manually selects where to place their corresponding symbol on the board. If it's already taken, the player is allowed to go again until they've placed their mark in a spot that's considered "legal" under the rules of Tic-Tac-Toe.
