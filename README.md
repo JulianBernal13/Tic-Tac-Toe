@@ -10,4 +10,4 @@ The game will continue until there is a winner declared or a draw occurs (i.e. a
 
 Programming:
 
-Each player manually selects where to place their corresponding symbol on the board. If it's already taken, the player is allowed to go again until they've placed their symbol in a spot that's considered "legal" in the rules of Tic-Tac-Toe.
+Each player manually selects where to place their corresponding symbol on the board. If it's already taken, the player is allowed to go again until they've placed their symbol in a spot that's considered "legal" under the rules of Tic-Tac-Toe.
