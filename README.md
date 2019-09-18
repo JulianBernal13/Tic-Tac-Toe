@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This project is a simulation of the renown game called "Tic-Tac-Toe" written in Java. 
+This project is a simulation of the renown game called "Tic-Tac-Toe" written in JAVA (ECLIPSE). 
 
 The game consists of 2 Players: (Player 1 being displayed as 'X' and Player 2 being displayed as 'O')
 
