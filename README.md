@@ -2,6 +2,8 @@
 
 This project is a simulation of the renown game called "Tic-Tac-Toe." All of this code is written using the programming language JAVA (ECLIPSE). 
 
+Description:
+
 The game consists of 2 Players: (Player 1 being displayed as 'X' and Player 2 being displayed as 'O')
 
 The objective of this game is the same as any other form of Tic-Tac-Toe, which is to be the first player to "[succeed] in placing three of their marks in a horizontal, vertical, or diagonal row wins the game."
