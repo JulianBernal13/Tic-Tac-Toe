@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This project is a simulation of the renown game called "Tic-Tac-Toe." All of this code is written using the programming language JAVA (ECLIPSE). 
+This project is a simulation of the renown game called "Tic-Tac-Toe." All of this code is written using the programming language JAVA. 
 
 Description:
 
